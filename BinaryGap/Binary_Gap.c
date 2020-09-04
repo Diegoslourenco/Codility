@@ -1,8 +1,6 @@
 # include <stdio.h>
 # define BITS 32
 
-// https://stackoverflow.com/questions/11656532/returning-an-array-using-c
-
 // Function prototypes
 char* binary_conversor(int);
 int counting_gap(char*);
